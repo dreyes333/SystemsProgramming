@@ -1,0 +1,12 @@
+einstein:x:1539:1543:Albert Einstein:/home/einstein:/bin/bash
+presley:x:1540:1544:Elvis Presley:/home/presley:/bin/bash
+washington:x:1541:1545:George Washington:/home/washington:/bin/bash
+banner:x:1542:1546:Bruce Banner:/home/banner:/bin/bash
+harrison:x:1543:1547:George Harrison:/home/harrison:/bin/bash
+austen:x:1544:1548:Jane Austen:/home/austen:/bin/bash
+disney:x:1545:1549:Walt Disney:/home/disney:/bin/bash
+aldrin:x:1546:1550:Buzz Aldrin:/home/aldrin:/bin/bash
+curie:x:1547:1551:Marie Curie:/home/curie:/bin/bash
+tolkien:x:1548:1552:J. R. R. Tolkien:/home/tolkien:/bin/bash
+columbus:x:1549:1553:Christopher Columbus:/home/columbus:/bin/bash
+gogh:x:1550:1554:Vincent Van Gogh:/home/gogh:/bin/bash

@@ -1,0 +1,22 @@
+  1 <html>
+    2     <body>
+      3         <h1>PAST DUE NOTICE - APT {apt_number| - <<date>></h1>
+        4         <p>
+          5             Dear <<first_name>> <<last_name>>, <<first_name>> <<last_name>>
+            6         </p>
+              7         <p><<apt_number>> - <<date>></h1> <<apt_number>> - <<date>></h1>
+
+
+                8             Your rent is past due by $<<balance>> for the apartment in $<<balance>>
+                  9             which you began residency on <<lease_start>>. If it is not   <<lease_start>>. If it is not
+                   11                    10             paid in full within fourteen days, your contract may be
+                    12                     11             terminated before the original end date of <<lease_end>>.
+                   10             paid in full within fourteen days, your contract may be
+                    11             terminated before the original end date of <<lease_end>>.<<lease_end>>.
+                     12         </p>
+                      13         <p>
+                       14             -Management
+                        15         </p>
+                         16     </body>
+                          17 </html>
+

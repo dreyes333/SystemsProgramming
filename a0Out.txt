@@ -1,0 +1,4 @@
+My name is Diego Reyes
+I am running this script from /home/huh550/courses/cs3423/assignments
+My username is huh550
+I am logged in to fox06
